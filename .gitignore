@@ -1,1 +1,5 @@
 .DS_Store
+backups/
+ac-comphist.dat
+places
+ido.last
