@@ -1,0 +1,82 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/wintersone/Desktop/config/.emacs.d/" . "lisp/")
+ ("/Users/wintersone/.emacs.d/" . "lisp/")
+ ("/Users/wintersone/gocode/src/github.com/miekg/" . "mmark/")
+ ("/Users/wintersone/gocode/src/github.com/" . "miekg/")
+ ("/Users/wintersone/gocode/src/" . "github.com/")
+ ("/Users/wintersone/gocode/" . "src/")
+ ("/Users/wintersone/work/" . "HHStaticGenerator/")
+ ("/Users/wintersone/Desktop/config/" . ".emacs.d/")
+ ("/Users/wintersone/Desktop/" . "config/")
+ ("/Users/wintersone/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/wintersone/.emacs.d/lisp/"
+ "/Users/wintersone/Desktop/config/.emacs.d/"
+ "/Users/wintersone/.emacs.d/"
+ "/Users/wintersone/gocode/src/github.com/miekg/mmark/"
+ "/Users/wintersone/work/HHStaticGenerator/"
+ "/Users/wintersone/Desktop/config/.emacs.d/lisp/"
+ "/Users/wintersone/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init-go.el"
+ "init-local.el"
+ "init.el"
+ "inline_test.go"
+ "block.go"
+ "go-autocomplete.el"
+ "main.html"
+ "init-auto-complete.el"
+ "README.md"
+ ".gitconfig"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/wintersone/" (22086 61894 0 0) "work/" "test.zip" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Input_Fonts/" "gocode/" "font/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".zshrc" ".zsh_history" ".zsh-update" ".zhistory" ".zcompdump-Huang’s MacBook Pro-5.0.8" ".vimviews/" ".vimundo/" ".vimswap/" ".vimrc.local" ".vimrc.bundles" ".vimrc.before" ".vimrc" ".viminfo" ".vimbackup/" ".vim.20151113_1447417730/" ".vim.20151113_1447417369/" ".vim/" ".Trash/" ".tmuxifier/" ".subversion/" ".ssh/" ".spf13-vim-3/" ".ShadowsocksX/" ".proxychains/" ".oh-my-zsh/" ".gitconfig" ".fasd" ".emacs.d/" ".DS_Store" ".docker/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_history" "../" "./")
+
+ ("/Users/wintersone/.emacs.d/" (22086 61873 0 0) "site-lisp/" "places" "lisp/" "init.el" "ido.last" "emacs-color-theme-solarized/" "elpa/" "backups/" "auto-save-list/" "ac-comphist.dat" ".DS_Store" "../" "./")
+
+ ("/Users/wintersone/.emacs.d/lisp/" (22086 61613 0 0) "pcache.el" "logito.el" "init-utils.el" "init-themes.el" "init-site-lisp.el" "init-local.el" "init-ibuffer.el" "init-go.el" "init-flycheck.el" "init-exec-path.el" "init-elpa.el" "init-compat.el" "init-auto-complete.el" "go-autocomplete.el" "../" "./")
+
+ ("/Users/wintersone/Desktop/config/.emacs.d/" (22086 61200 0 0) "url/" "themes/" "site-lisp/" "places" "lisp/" "init.el" "ido.last" "elpa/" "backups/" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/wintersone/gocode/src/github.com/miekg/mmark/" (22086 61110 0 0) "xml2rfcv3.rnc" "xml2rfcv3.go" "xml2rfcv2.go" "xml2rfc.go" "toml.go" "table_test.go" "skel.md" "rfc7328_test.go" "rfc7328.go" "rfc/" "README.md" "quote.go" "mmark2rfc.md" "mmark.test" "mmark/" "misc/" "markdown.go" "Makefile" "logo/" "log.go" "LICENSE" "inline_test.go" "inline.go" "ial.go" "html.go" "doc_test.go" "COPYRIGHT" "CONVERSION_RFC7328.md" "code.go" "cm_test.go" "block_test.go" "block.go" ".travis.yml" ".rel.sh" ".gitignore" ".git/" ".#block_test.go" "#html.go#" "#block_test.go#" "../" "./")
+
+ ("/Users/wintersone/Desktop/config/.emacs.d/site-lisp/" (21814 63968 0 0) "magit/" "../" "./")
+
+ ("/Users/wintersone/work/HHStaticGenerator/" (22086 60750 0 0) "templates/" "README.md" "main.html" "logo.svg" "github.css" "example.toml" "dirty-shade.png" "block-operation-in-emacs.toml" "block-operation-in-emacs.md" "banner.svg" ".gitignore" ".git/" "#main.html#" "../" "./")
+
+ ("/Users/wintersone/Desktop/config/.emacs.d/lisp/" (21796 55524 0 0) "pcache.el" "logito.el" "init-utils.el" "init-themes.el" "init-site-lisp.el" "init-ibuffer.el" "init-flycheck.el" "init-exec-path.el" "init-elpa.el" "init-compat.el" "init-auto-complete.el" "go-mode.el" "go-mode-autoloads.el" "go-autocomplete.el" "gist.el" "../" "./")
+
+ ("/Users/wintersone/Desktop/" (22086 55416 0 0) "Solarized Dark.itermcolors" "mbadolato-iTerm2-Color-Schemes-34b1c01/" "master.zip" "config/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/wintersone/Applications/" (22085 21889 0 0) "Chrome Apps.localized/" ".localized" "../" "./")
+
+ ("/Users/wintersone/.emacs.d/auto-save-list/" (22086 55099 0 0) ".saves-69853-Huangs-MBP.lan~" "../" "./")
+
+ ("/Users/wintersone/gocode/src/github.com/miekg/" (22085 57263 0 0) "mmark/" "../" "./")
+
+ ("/Users/wintersone/gocode/src/github.com/" (22085 57287 0 0) "miekg/" "BurntSushi/" "../" "./")
+
+ ("/Users/wintersone/gocode/src/" (22085 57263 0 0) "github.com/" "../" "./")
+
+ ("/Users/wintersone/gocode/" (22085 57421 0 0) "src/" "pkg/" "bin/" "../" "./")
+
+ ("/Users/wintersone/work/" (22086 48604 0 0) "spf13-vim.sh" "HHStaticGenerator/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22085 12522 0 0) "wintersone/" "Shared/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/wintersone/Desktop/config/" (22085 20459 0 0) "powerline-shell/" ".zshrc" ".tmuxifier/" ".spf13-vim-3/" ".emacs.d/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
