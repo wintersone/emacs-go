@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: httpfunc
+# --
+func $1Handler(w http.ResponseWriter, r *http.Request) {
+	$0
+}

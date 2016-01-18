@@ -3,3 +3,7 @@ backups/
 ac-comphist.dat
 places
 ido.last
+auto-save-list/
+history
+.session
+.emacs.desktop
