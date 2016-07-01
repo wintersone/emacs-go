@@ -2,7 +2,8 @@
 ## Installation
 ---
 ```
-git clone https://github.com/purcell/emacs.d.git ~/.emacs.d
+git clone https://github.com/wintersone/emacs-go.git /.emacs.d
+git submodule update --init
 ```
 Set your `$GOPATH` to `~/gocode`
 
