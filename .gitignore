@@ -7,3 +7,4 @@ auto-save-list/
 history
 .session
 .emacs.desktop
+.emacs.desktop.lock
